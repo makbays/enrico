@@ -1,0 +1,7 @@
+{
+    "name": "makbays/enrico",
+    "description": "Provides financial holidays for Turkey",
+    "require": {
+        "php": ">=5.6"
+    }
+}
